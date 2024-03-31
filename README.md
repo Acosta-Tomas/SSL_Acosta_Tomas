@@ -1,6 +1,3 @@
-# SSL_Acosta_Tomas
-Repositorio personal para la cursada de Sintaxis y Semantica de los Lenguajes
-
 # *Sintaxis y Semántica de los Lenguajes*
 
 Bienvenidos a mi repositorio de resolución de trabajos prácticos individuales de la matería *Sintaxis y Semántica de los Lenguajes* perteneciente a:
